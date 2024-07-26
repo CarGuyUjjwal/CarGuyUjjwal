@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CarGuyUjjwal
-- 👀 I’m interested in Cars, Bikes and techs
+- 👋 Hi, I’m Ujjwal Ghosh
+- 👀 I’m interested in Compiler, Operating systems and programming 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me just maill me at gujjwal076@gmail.com
